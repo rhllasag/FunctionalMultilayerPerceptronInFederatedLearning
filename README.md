@@ -5,7 +5,7 @@ Experiments conducted in the novel maintenance strategy called Predictive Mainte
 
 It is assumed the installation of the Parallel Computing Toolbox to execute the present code.
 
-## Predictive Maintenance using Multilayer Perceptron
+## Predictive Maintenance using Functional Multilayer Perceptron
 
 Predictive Maintenance (PM) is a novel maintenance strategy that uses Condition Monitoring (CM) to predict the Remaining Useful Life (RUL) of industrial machinery. Using RUL estimations, maintenance interventions are performed when needed. Particularly, the code available is related to the RUL prediction of turbofan engines using NASA C-MAPSS datasets (https://www.nasa.gov/intelligent-systems-division). 
 
@@ -13,7 +13,7 @@ Conditional monitoring data C-MAPSS, located in the *data* folder, is composed o
 
 - Centralized data scenario: CentralizedData_FMLP.mlx 
 
-NOTE: Data of this repository was pre-processed using the criteria described in [Pending Reference](README.md). This reference also mathematically explains the implemented Multilayer Perceptron. 
+NOTE: Data of this repository was pre-processed using the criteria described in [Pending Reference](README.md). This reference also mathematically explains the implemented Functional Multilayer Perceptron. 
 
 ## Remaining Useful Life in Horizontal Federated Learning Scenarios 
 Decentralized data scenarios are common in industrial applications. Companies present difficulties gathering many failure instances in isolated systems (e.g., air fleets measuring aircraft engines) to develop accurate PM applications separately. Therefore, it is assumed that different parties *J* (e.g. multiple aircraft) partially monitored the turbofan engines described in a particular FD00x dataset using the same variables. 
