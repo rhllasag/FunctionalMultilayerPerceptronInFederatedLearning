@@ -13,7 +13,7 @@ Conditional monitoring data C-MAPSS, located in the *data* folder, is composed o
 
 - Centralized data scenario: CentralizedData_FMLP.mlx 
 
-NOTE: Data of this repository was pre-processed using the criteria described in [Pending Reference](README.md). This reference also mathematically explains the implemented Functional Multilayer Perceptron. 
+NOTE: Data of this repository was pre-processed using the criteria described in [[1]](#1). This reference also mathematically explains the implemented Functional Multilayer Perceptron. 
 
 ## Remaining Useful Life in Horizontal Federated Learning Scenarios 
 Decentralized data scenarios are common in industrial applications. Companies present difficulties gathering many failure instances in isolated systems (e.g., air fleets measuring aircraft engines) to develop accurate PM applications separately. Therefore, it is assumed that different parties *J* (e.g. multiple aircraft) partially monitored the turbofan engines described in a particular FD00x dataset using the same variables. 
@@ -45,3 +45,7 @@ If you use this content in a scientific publication, we would appreciate using t
 	isbn={978-3-031-34204-2}
 }
 ```
+## Citing Work
+
+<a id="1">[1]</a> 
+Llasag Rosero, R., Silva, C., Ribeiro, B. (2023). Forecasting Functional Time Series Using Federated Learning. In: Iliadis, L., Maglogiannis, I., Alonso, S., Jayne, C., Pimenidis, E. (eds) Engineering Applications of Neural Networks. EANN 2023. Communications in Computer and Information Science, vol 1826. Springer, Cham. https://doi.org/10.1007/978-3-031-34204-2_40
