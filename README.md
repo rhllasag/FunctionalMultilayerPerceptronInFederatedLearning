@@ -24,4 +24,24 @@ Federated Learning experiments can be replicated by setting the number of partie
 NOTE: More details about data partitioning and the Federated Averaging (FedAvg) algorithm can be found in [Pending Reference](README.md)
 
 ## Reference
-[Pending Reference](README.md) 
+If you use this content in a scientific publication, we would appreciate using the following citation:
+```
+@InProceedings{LLasagRosero2023,
+	author={Llasag Rosero, Ra{\'u}l
+	and Silva, Catarina
+	and Ribeiro, Bernardete},
+	editor={Iliadis, Lazaros
+	and Maglogiannis, Ilias
+	and Alonso, Serafin
+	and Jayne, Chrisina
+	and Pimenidis, Elias},
+	title={Forecasting Functional Time Series Using Federated Learning},
+	booktitle={Engineering Applications of Neural Networks},
+	year={2023},
+	publisher={Springer Nature Switzerland},
+	address={Cham},
+	pages={491--504},
+	doi={10.1007/978-3-031-34204-2_40},
+	isbn={978-3-031-34204-2}
+}
+```
