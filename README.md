@@ -49,3 +49,33 @@ If you use this content in a scientific publication, we would appreciate using t
 
 <a id="1">[1]</a> 
 Llasag Rosero, R., Silva, C., Ribeiro, B. (2023). Forecasting Functional Time Series Using Federated Learning. In: Iliadis, L., Maglogiannis, I., Alonso, S., Jayne, C., Pimenidis, E. (eds) Engineering Applications of Neural Networks. EANN 2023. Communications in Computer and Information Science, vol 1826. Springer, Cham. https://doi.org/10.1007/978-3-031-34204-2_40
+
+
+## Federated Learning Literature Review
+
+McMahan, H.B., Moore, E., Ramage, D., Arcas, B.A.: Federated learning of deep networks using model averaging (2016) https://arxiv.org/abs/1602.05629
+
+Liu, W., Chen, L., Chen, Y., Zhang, W: Accelerating federated learning via momentum gradient descent (2019) https://arxiv.org/abs/1910.03197
+
+Li, Q., Wen, Z., Wu, Z., Hu, S., Wang, N., Liu, X., He, B.: A survey on federated learning systems: Vision, hype and reality for data privacy and protection (2019). https://arxiv.org/abs/1907.09693
+
+Yang, L., Yan, K., Xinwei, Z., Liping, L., Yong, C., Tianjian, C., Mingyi, H., Qiang, Y.: A communication efficient vertical federated
+learning framework (2019) https://arxiv.org/abs/1912.11187
+
+Rosero, R.L., Silva, C., Ribeiro, B.: Remaining useful life estimation in aircraft components with federated learning. International
+Journal of Prognostics and Health Management 2020(5) (2020). https://doi.org/10.](https://doi.org/10.36001/phme.2020.v5i1.1228
+
+M., P., Priya, R.M.S., Pham, Q., Dev, K., Maddikunta, P.K.R., Gadekallu, T.R., Huynh-The, T.: Fusion of federated learning and industrial internet of things: A survey (2021). https://arxiv.org/abs/2101.00798
+
+Ning, G., Guanghao, L., Li, Z., Yi, L.: Failure prediction in production line based on federated learning: an empirical study.
+Journal of Intelligent Manufacturing 33(8), 2277–2294 (2022). https://doi.org/10.1007/s10845-021-01775-2
+
+
+
+
+
+
+
+
+
+
